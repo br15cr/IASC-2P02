@@ -3,5 +3,3 @@
 Hello World!
 
 Hello there!
-
-Hi!
