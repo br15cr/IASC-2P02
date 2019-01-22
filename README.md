@@ -3,3 +3,4 @@
 
 Hello World!
 Test
+![](images/duck.jpg)
