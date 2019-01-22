@@ -4,3 +4,7 @@
 Hello World!
 Test
 ![](images/duck.jpg)
+
+## Blog post
+
+Lorem ipsum dolor sit amet [continue reading](blog)
