@@ -3,7 +3,7 @@
 
 Hello World!
 Test
-![](images/duck.jpg)
+![](images/rubber-duck.jpg)
 
 ## Blog post
 
