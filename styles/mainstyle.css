@@ -1,10 +1,11 @@
 body {
 	background-color:#FFF;
 	margin:0px;
+	font-family:Arial,Liberation Sans;
 }
 
 .title h1 {
-	font-family:Arial Black;
+	font-family:Arial Black,Liberation Sans;
 	margin:0px;
 }
 
@@ -27,12 +28,23 @@ a:hover {
 
 .menubar {
 	text-align:center;
+	background-color:#DDD;
+}
+
+.menubar a {
+	padding-left:10px;
+	padding-right:10px;
 }
 
 .menubar ul {
 	list-style:none;
+	padding:0px;
 }
 
 .menubar li {
 	display:inline-block;
+}
+
+.page {
+	margin-left:5%;
 }
