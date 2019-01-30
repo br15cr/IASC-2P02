@@ -1,18 +1,12 @@
 <!DOCTYPE=html>
 <html>
 	<head>
-		<style>
-#test{
-	display:inline-block;
-}
-		</style>
+		<link rel="stylesheet" type="text/css" href="styles/mainstyle.css"/>
+		<script src="scripts/header.js"></script> 
 	</head>
 	<body>
-		<div id="test">
+		<div id="headins">
 		</div>
-		<script>
-			// https://stackoverflow.com/questions/17636528/how-do-i-load-an-html-page-in-a-div-using-javascript
-			document.getElementById("test").innerHTML='<object type="text/html" data="header.html"></object>';
-		</script>
+		<script>loadHeader();</script>
 	</body>
 </html>
