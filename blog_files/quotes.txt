@@ -1,0 +1,8 @@
+"But, I will argue, such graphical tools are a kind of intellectual Trojan horse, a vehicle through which assumptions about what constitutes information swarms with potent force. These assumptions are cloaked in a rhetoric taken wholesale from the techniques of the empirical sciences that conceals their epistemological biases under a guise of familiarity." (Drucker, 2011, p. 1).
+
+"Yes but the rendering of statistical information into graphical form gites it a simpicity and legibility that hides every aspect of the original interpretative framework on which the statistical data were constructed.
+
+The graphical force conceals what the statistican knows very well - that no "data" pre-exists their parameterization.
+
+Data are capta, taken not given, constructed as an interpretation of the phenomenal world, not inherent in it." (Drucker, 2011, p. 8)
+
