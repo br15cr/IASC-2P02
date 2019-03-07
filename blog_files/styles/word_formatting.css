@@ -12,3 +12,8 @@
 .quote {
     
 }
+
+.doc p {
+    text-indent:20px;
+    line-height:25px;
+}
