@@ -5,4 +5,4 @@
 
 ## Blog post
 
-Lorem ipsum dolor sit amet [continue reading](blog)
+Lorem ipsum dolor sit amet [continue reading](blog_files\blog.html)
