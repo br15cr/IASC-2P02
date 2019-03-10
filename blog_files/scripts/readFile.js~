@@ -1,0 +1,7 @@
+// https://stackoverflow.com/questions/14446447/how-to-read-a-local-text-file
+
+function readTextFile(file){
+    var rawFile = new XMLHttpRequest();
+    rawFile.open("GET",file,false);
+    rawFile.
+}
