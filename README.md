@@ -6,3 +6,7 @@
 ## Blog post
 
 Lorem ipsum dolor sit amet [continue reading](blog_files\blog.html)
+
+## Solo Presentations
+
+[Presentation](revea\index.html)
