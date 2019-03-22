@@ -1,0 +1,10 @@
+strong {
+	color:#FFC;
+}
+
+button {
+	opacity:0;
+}
+
+button:hover {
+}
