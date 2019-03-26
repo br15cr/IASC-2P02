@@ -18,13 +18,21 @@
 	* easy to reproduce the same results
 	* (square wave image)
 
+## Lee Harrison and the ANIMAC/Scanimate
 * Origins from monochrome crt modifications to bend the beam
-* Lee Harrison and the ANIMAC/Scanimate
-* How it worked
-* Uses (in film, television)
-* Specific examples
-* Scanimate becomes obsolete over digital computer graphics
+
+## Scanimate vs Cell Animation
+
+* Cell animation took weeks to complete
+
+
+## How it worked
+## Uses (in film, television)
+## Specific examples
+## Scanimate becomes obsolete over digital computer graphics
+
+
 # Modern uses
-* pros and cons of scanimate
-* Surviving scanimate (Dave)
-* Contemporary video synthesizers
+## pros and cons of scanimate
+## Last scanimate (Dave)
+## Contemporary video synthesizers
