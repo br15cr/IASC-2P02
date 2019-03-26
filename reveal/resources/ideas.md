@@ -1,3 +1,5 @@
+
+2-3 words per slide MAX
 # History
 
 ## Scanimate Introduction
@@ -20,11 +22,15 @@
 
 ## Lee Harrison and the ANIMAC/Scanimate
 * Origins from monochrome crt modifications to bend the beam
+* Inventor of realtime Mocap (1959)
+
+
 
 ## Scanimate vs Cell Animation
 
 * Cell animation took weeks to complete
 
+## Scanimate becomes commertialized
 
 ## How it worked
 ## Uses (in film, television)
