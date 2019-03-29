@@ -25,12 +25,13 @@
 * Inventor of realtime Mocap (1959)
 
 
+## Scanimate becomes commertialized
 
 ## Scanimate vs Cell Animation
 
 * Cell animation took weeks to complete
+* Scanimate animation could be finished within a day
 
-## Scanimate becomes commertialized
 
 ## How it worked
 ## Uses (in film, television)
