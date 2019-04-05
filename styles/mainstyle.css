@@ -2,7 +2,7 @@ body {
 	background-color:#FFF;
 	margin:0px;
 	font-family:Arial,Liberation Sans;
-	background-image:url("../images/rubber-duck.jpg");
+	/*background-image:url("../images/rubber-duck.jpg");*/
 }
 
 .title h1 {
@@ -63,4 +63,9 @@ a:hover {
 #header iframe {
 	width:100%;
 	height:173px;
+}
+
+
+#projects {
+	display:inline-block;
 }
