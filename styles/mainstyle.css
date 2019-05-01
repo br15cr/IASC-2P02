@@ -95,6 +95,12 @@ a:hover {
 
 .navbar a {
 	padding:10px;
+	font-weight:bold;
+}
+
+.navbar a:hover {
+	border: dotted 1px blue;
+	text-decoration:none;
 }
 
 
@@ -104,5 +110,5 @@ a:hover {
 
 
 section h2 {
-	margin-top:50px;
+	margin-top:20px;
 }
