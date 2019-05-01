@@ -1548,7 +1548,7 @@ body {
 
 @media screen and (min-width: 1600px) {
   .reveal .speaker-notes {
-    font-size: 20px; } }
+    font-size: 16px; } }
 
 @media screen and (max-width: 1024px) {
   .reveal.show-notes {
